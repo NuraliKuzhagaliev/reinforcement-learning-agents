@@ -1,0 +1,7 @@
+{
+  "mean_reward": 247.4133349,
+  "std_reward": 20.42933505229,
+  "is_deterministic": true,
+  "n_eval_episodes": 10,
+  "evaluation_seed": 1000
+}

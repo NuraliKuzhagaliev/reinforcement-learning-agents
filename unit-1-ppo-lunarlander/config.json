@@ -1,0 +1,7 @@
+{
+  "model_name": "ppo-LunarLander-v2",
+  "env_id": "LunarLander-v2",
+  "algorithm": "PPO",
+  "gymnasium_version": "0.29.1",
+  "stable_baselines3_version": "2.3.2"
+}
